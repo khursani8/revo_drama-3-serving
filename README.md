@@ -1,3 +1,5 @@
+> **Unique:** SGLang-Omni serving kit for Revolab/drama-3-malay-sft-half Malay TTS: one-command serve.sh with two-GPU engine/vocoder split, CORS-open speech API, and a web UI with reference-voice cloning and prompt-craft guardrails.
+
 # drama-3-serving
 
 Serving kit for [Revolab/drama-3-malay-sft-half](https://huggingface.co/Revolab/drama-3-malay-sft-half) — a LoRA finetune of [fishaudio/drama-3](https://huggingface.co/fishaudio/fish-speech) for Malay text-to-speech, built on [SGLang-Omni](https://github.com/sgl-project/sglang-omni).
